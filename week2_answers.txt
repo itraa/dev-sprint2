@@ -1,2 +1,15 @@
 # Please put answers for the week2 stand alone questions here
-# Name:
+# Name: Aarthi Narayan
+1. Toddler Click and Learn game:
+ Shapes filled with colors on screen, background music plays rhymes or children songs. On clicking each shape, audio mentions the shape and color. Can be increased in complexity later on by letting the shapes or objects move around on the screen to help with learning good motor skills.
+
+2. Animal database management app for research:  
+Provide auto reminders for animal events (weaning date, cage maintenance etc). 
+
+-------------------------------------------------------------------------------
+The project idea below is just taking on same concept as music. I am keeping it as backup and may switch it up with something new later during the week.
+--------------------------------------------------------------------------------
+3. Baby milestone web app:
+Parent adds the videos and family can logon remote to view them
+
+
